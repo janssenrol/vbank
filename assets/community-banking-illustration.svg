@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" role="img" aria-labelledby="title desc">
+<title id="title">Everyday banking in the community</title>
+<desc id="desc">A clean, dimensional illustration of a neighborhood with a home, local shop, and savings growth motif.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9fcfa"/><stop offset="1" stop-color="#e5f1ea"/></linearGradient>
+  <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18a894"/><stop offset="1" stop-color="#08665f"/></linearGradient>
+  <linearGradient id="roof" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6b8d83"/><stop offset="1" stop-color="#315b51"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#315c4e" flood-opacity=".13"/></filter>
+</defs>
+<rect x="18" y="18" width="684" height="524" rx="34" fill="url(#bg)"/>
+<circle cx="575" cy="115" r="72" fill="#d4e9de" opacity=".7"/>
+<circle cx="125" cy="425" r="65" fill="#dceee5" opacity=".8"/>
+<path d="M72 421c100-46 178-46 275-5s187 46 301-7v81H72z" fill="#d3e8dc"/>
+<g filter="url(#shadow)">
+  <path d="M118 252 260 150l142 102v171H118z" fill="#fff" stroke="#d7e8df" stroke-width="5"/>
+  <path d="m94 260 166-121 166 121-20 25-146-105-146 105z" fill="url(#roof)"/>
+  <rect x="163" y="298" width="75" height="125" rx="8" fill="#eaf4ee" stroke="#c8ded2" stroke-width="4"/>
+  <rect x="276" y="286" width="83" height="68" rx="8" fill="#dff0e8" stroke="#c8ded2" stroke-width="4"/>
+  <path d="M317 286v68M276 320h83" stroke="#b4d1c2" stroke-width="4"/>
+  <rect x="459" y="265" width="150" height="158" rx="14" fill="#fff" stroke="#d3e5dc" stroke-width="4"/>
+  <path d="M445 272h178v39H445z" fill="url(#teal)"/>
+  <path d="M460 311h148" stroke="#d6e8df" stroke-width="4"/>
+  <rect x="482" y="337" width="104" height="86" rx="8" fill="#edf6f1"/>
+  <path d="M482 366h104" stroke="#c4ddd0" stroke-width="4"/>
+  <path d="M511 337v86M557 337v86" stroke="#d1e5da" stroke-width="3"/>
+</g>
+<g filter="url(#shadow)">
+  <rect x="270" y="74" width="180" height="104" rx="20" fill="#fff" stroke="#d6e8de" stroke-width="3"/>
+  <circle cx="315" cy="126" r="25" fill="url(#teal)"/>
+  <path d="M315 111v30m-13-15h26" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <path d="M356 112h65M356 136h45" stroke="#bfd9cc" stroke-width="8" stroke-linecap="round"/>
+</g>
+<path d="M105 455h510" stroke="#b8d8c8" stroke-width="5" stroke-linecap="round"/>
+<g fill="#0a796e"><circle cx="134" cy="475" r="7"/><circle cx="586" cy="475" r="7"/></g>
+</svg>
